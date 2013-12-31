@@ -1,0 +1,5 @@
+/Users/alexander/Projects/StringToPastel/StringToPastel/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/alexander/Projects/StringToPastel/StringToPastel/bin/Debug/StringToPastelConsole.exe.mdb
+/Users/alexander/Projects/StringToPastel/StringToPastel/bin/Debug/StringToPastelConsole.exe
+/Users/alexander/Projects/StringToPastel/StringToPastel/obj/x86/Debug/StringToPastelConsole.exe
+/Users/alexander/Projects/StringToPastel/StringToPastel/obj/x86/Debug/StringToPastelConsole.exe.mdb

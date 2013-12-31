@@ -1,0 +1,5 @@
+/home/alexander/StringToPastelConsole/StringToPastelConsole/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/alexander/StringToPastelConsole/StringToPastelConsole/bin/Release/StringToPastelConsole.exe.mdb
+/home/alexander/StringToPastelConsole/StringToPastelConsole/bin/Release/StringToPastelConsole.exe
+/home/alexander/StringToPastelConsole/StringToPastelConsole/obj/x86/Release/StringToPastelConsole.exe
+/home/alexander/StringToPastelConsole/StringToPastelConsole/obj/x86/Release/StringToPastelConsole.exe.mdb

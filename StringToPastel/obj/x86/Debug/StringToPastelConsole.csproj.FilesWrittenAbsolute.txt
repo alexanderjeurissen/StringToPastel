@@ -1,0 +1,10 @@
+/home/alexander/StringToPastelConsole/StringToPastelConsole/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/alexander/StringToPastelConsole/StringToPastelConsole/bin/Debug/StringToPastelConsole.exe.mdb
+/home/alexander/StringToPastelConsole/StringToPastelConsole/bin/Debug/StringToPastelConsole.exe
+/home/alexander/StringToPastelConsole/StringToPastelConsole/obj/x86/Debug/StringToPastelConsole.exe
+/home/alexander/StringToPastelConsole/StringToPastelConsole/obj/x86/Debug/StringToPastelConsole.exe.mdb
+/Users/alexander/Projects/StringToPastelConsole/StringToPastelConsole/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/alexander/Projects/StringToPastelConsole/StringToPastelConsole/bin/Debug/StringToPastelConsole.exe.mdb
+/Users/alexander/Projects/StringToPastelConsole/StringToPastelConsole/bin/Debug/StringToPastelConsole.exe
+/Users/alexander/Projects/StringToPastelConsole/StringToPastelConsole/obj/x86/Debug/StringToPastelConsole.exe
+/Users/alexander/Projects/StringToPastelConsole/StringToPastelConsole/obj/x86/Debug/StringToPastelConsole.exe.mdb
