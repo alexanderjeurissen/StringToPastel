@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="StringToPastel/NUnitTestClass.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringToPastel/Program.cs">
     <Files>
-      <File FileName="StringToPastel/NUnitTestClass.cs" Line="9" Column="17" />
+      <File FileName="StringToPastel/NUnitTestClass.cs" Line="15" Column="1" />
+      <File FileName="StringToPastel/Program.cs" Line="24" Column="3" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
@@ -13,5 +14,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="StringToPastel/Program.cs" line="15" offsetX="578" offsetY="210" expression="hashCode" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
 </Properties>

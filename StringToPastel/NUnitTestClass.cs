@@ -14,19 +14,12 @@ namespace StringToPastel
 		}
 
 		[Test]
-		public void stringToInteger ()
-		{
-			int result = main.stringToInteger ("test");
-			Assert.AreEqual (228, result);
-		}
-
-		[Test]
 		public void StringToPastelTest(){
 			string result1 = main.pastelColorForString ("swag");
-			Assert.AreEqual ("#95DCF6", result1);
+			Assert.AreEqual ("#95C6A5", result1);
 
 			string result2 = main.pastelColorForString ("#church");
-			Assert.AreEqual ("#8FB7CE", result2);
+			Assert.AreEqual ("#8FC9C6", result2);
 		}
 
 	}
